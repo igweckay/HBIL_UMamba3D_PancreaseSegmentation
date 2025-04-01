@@ -22,7 +22,7 @@ This repository requires a specific Python environment to run. Follow the steps 
 
 1. Clone this repository
     ```bash
-    git clone https://github.com/kay/HBIL_UMamba3D_PancreaseSegmentation.git
+    git clone https://github.com/igweckay/HBIL_UMamba3D_PancreaseSegmentation.git
     ```
 2. Navigate to the repository directory:
     ```bash
