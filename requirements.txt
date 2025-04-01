@@ -1,0 +1,8 @@
+numpy
+nibabel==5.3.2
+torch==2.5.1
+einops==0.8.1
+monai==1.4.0
+dynamic_network_architectures==0.3.1
+mamba_ssm==2.2.4
+nnunetv2==2.5.1
